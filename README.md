@@ -1,16 +1,29 @@
-### Hi there 👋
+## Hi, I'm Sugam 👋👨‍💻
 
-<!--
-**sugamxp/sugamxp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+ __      __  ______  ____    ____    __  __  ____
+/\ \  __/\ \/\  _  \/\  _`\ /\  _`\ /\ \/\ \/\  _`\
+\ \ \/\ \ \ \ \ \L\ \ \,\L\_\ \,\L\_\ \ \ \ \ \ \L\ \
+ \ \ \ \ \ \ \ \  __ \/_\__ \\/_\__ \\ \ \ \ \ \ ,__/
+  \ \ \_/ \_\ \ \ \/\ \/\ \L\ \/\ \L\ \ \ \_\ \ \ \/
+   \ `\___x___/\ \_\ \_\ `\____\ `\____\ \_____\ \_\
+    '\/__//__/  \/_/\/_/\/_____/\/_____/\/_____/\/_/
 
-Here are some ideas to get you started:
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+### about me
+- 🏫 I'm pursuing a Master’s degree in Computer Science at Stony Brook University, New York.
+- 🌱 I’m currently learning Typescript, Operating Systems, Go and other cool stuff!
+- 👯 I’m looking to collaborate on full stack web apps.
+- 💬 Ask me about React, Python, books and music
+- ⚡ Fun fact: Big fan of [Lex Fridman](https://twitter.com/lexfridman)
+
+<!-- - 📫 How to reach me: ... -->
+<!-- - 😄 Pronouns: ... -->
+
+
+### my weekly development breakdown
+
+
