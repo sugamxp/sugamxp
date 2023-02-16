@@ -23,5 +23,15 @@
 
 ### my weekly development breakdown
 <!--START_SECTION:waka-->
+
+```text
+JavaScript   9 hrs 32 mins   ██████████████████▓░░░░░░   74.25 %
+Python       1 hr 49 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.21 %
+CSS          1 hr 2 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
+C++          24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+```
+
 <!--END_SECTION:waka-->
 
