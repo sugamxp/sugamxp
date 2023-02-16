@@ -10,9 +10,6 @@
     '\/__//__/  \/_/\/_/\/_____/\/_____/\/_____/\/_/
 
 ```
-
-<br />
-
 ### about me
 - 🏫 I'm pursuing a Master’s degree in Computer Science at Stony Brook University, New York.
 - 🌱 I’m currently learning Typescript, Operating Systems, Go and other cool stuff!
@@ -25,5 +22,6 @@
 
 
 ### my weekly development breakdown
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
