@@ -28,11 +28,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-SQL      26 mins         ██████████░░░░░░░░░░░░░░░   39.98 %
-XQuery   15 mins         ██████░░░░░░░░░░░░░░░░░░░   23.49 %
-Java     13 mins         █████░░░░░░░░░░░░░░░░░░░░   19.92 %
-Python   10 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.38 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
