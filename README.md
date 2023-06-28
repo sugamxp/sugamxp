@@ -28,8 +28,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Astro   0 secs          ██████████████████▒░░░░░░   73.23 %
-Java    0 secs          ██████▓░░░░░░░░░░░░░░░░░░   26.77 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
